@@ -1,0 +1,30 @@
+.main {
+}
+
+.main__intro {
+  margin: 92px 0 118px 11.56%;
+}
+
+.main__places {
+  margin: 92px 0;
+}
+
+@media screen and (max-width: 1000px) {
+  .main__intro {
+    margin: 88px 3% 90px;
+  }
+
+  .main__places {
+    margin: 88px 3% 92px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .main__intro {
+    margin: 64px 5% 90px;
+  }
+
+  .main__places {
+    margin: 62px auto 64px;
+  }
+}

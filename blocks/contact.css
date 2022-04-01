@@ -1,0 +1,45 @@
+.contact {
+  display: flex;
+  flex-direction: column;
+  row-gap: 32px;
+  max-width: 656px;
+}
+
+.contact__title {
+  margin: 0;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 1.06;
+  text-align: center;
+  color: #fffdfd;
+}
+
+.contact__details {
+}
+
+.contact__paragraph {
+  margin: 0;
+  font-size: 18px;
+  line-height: 1.22;
+  text-align: center;
+}
+
+.contact__button {
+  align-self: center;
+}
+
+@media screen and (max-width: 500px) {
+  .contact {
+    row-gap: 16px;
+  }
+
+  .contact__title {
+    font-size: 32px;
+    line-height: 1.09;
+  }
+
+  .contact__paragraph {
+    font-size: 14px;
+    line-height: 1.14;
+  }
+}

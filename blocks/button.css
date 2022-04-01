@@ -1,0 +1,24 @@
+.button {
+  background-color: rgba(2, 120, 254, 1);
+  color: #fff;
+  padding: 13px 20px;
+  border-radius: 4px;
+  width: fit-content;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.button:hover {
+  background-color: rgba(0, 99, 210, 1);
+}
+
+@media screen and (max-width: 500px) {
+  .button_stretch {
+    box-sizing: border-box;
+    width: 90%;
+    padding: 13px auto;
+  }
+}
