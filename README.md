@@ -42,4 +42,4 @@ Project Link: [https://github.com/ozansevkin/web_project_3](https://github.com/o
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [linkedin]: https://linkedin.com/in/ozansevkin
-[product-screenshot]: https://ibb.co/g6rNTRY
+[product-screenshot]: https://i.ibb.co/d7fF25Z/screencapture-min.png
