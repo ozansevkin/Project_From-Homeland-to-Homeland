@@ -1,6 +1,6 @@
 .photo-grid {
   max-width: 1184px;
-  margin: 0 3%;
+  margin: 0 auto;
 }
 
 .photo-grid__list {
@@ -17,4 +17,16 @@
 
 .photo-grid__item {
   width: 100%;
+}
+
+@media screen and (max-width: 1000px) {
+  .photo-grid {
+    margin: 0 4%;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .photo-grid {
+    margin: 0 5%;
+  }
 }

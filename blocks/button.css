@@ -14,11 +14,3 @@
 .button:hover {
   background-color: rgba(0, 99, 210, 1);
 }
-
-@media screen and (max-width: 500px) {
-  .button_stretch {
-    box-sizing: border-box;
-    width: 90%;
-    padding: 13px auto;
-  }
-}

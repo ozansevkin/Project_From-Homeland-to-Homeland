@@ -20,6 +20,7 @@
 .contact__paragraph {
   margin: 0;
   font-size: 18px;
+  font-style: normal;
   line-height: 1.22;
   text-align: center;
 }
@@ -28,7 +29,7 @@
   align-self: center;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 550px) {
   .contact {
     row-gap: 16px;
   }

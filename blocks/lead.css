@@ -3,7 +3,7 @@
   margin: 0 auto;
   display: flex;
   flex-direction: column;
-  overflow: hidden;
+  align-items: center;
 }
 
 .lead__title {
@@ -39,9 +39,13 @@
   .lead__subtitle {
     margin: 32px 3% 0;
   }
+
+  .lead__photo {
+    margin-top: 36px;
+  }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 550px) {
   .lead__title {
     margin: 50px 5% 0;
     font-size: 40px;
