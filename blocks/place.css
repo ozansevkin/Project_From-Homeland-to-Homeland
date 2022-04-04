@@ -17,6 +17,7 @@
   font-size: 72px;
   line-height: 1.06;
   margin: 0;
+  align-self: flex-end;
 }
 
 .place__artist {
@@ -105,6 +106,5 @@
   .place__button {
     box-sizing: border-box;
     width: 90%;
-    padding: 13px auto;
   }
 }
