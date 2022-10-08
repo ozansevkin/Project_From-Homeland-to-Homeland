@@ -1,6 +1,6 @@
 # Project: From Homeland to Homeland
 
-[![From Homeland to Homeland Screen Shot][product-screenshot]](https://ozansevkin.github.io/web_project_3/)
+[![From Homeland to Homeland Screen Shot][product-screenshot]](https://ozansevkin.github.io/Project_From-Homeland-to-Homeland/)
 
 ## Overview
 
@@ -16,7 +16,7 @@
 
 - BEM methodology with flat file structure has been used.
 
-- [A live version](https://ozansevkin.github.io/web_project_3/) of the main branch deployed to github pages.
+- [A live version](https://ozansevkin.github.io/Project_From-Homeland-to-Homeland/) of the main branch deployed to github pages.
 
 ### Built with
 
@@ -27,7 +27,7 @@
 
 ### Live version of the project
 
-[Click here to view the live version](https://ozansevkin.github.io/web_project_3/)
+[Click here to view the live version](https://ozansevkin.github.io/Project_From-Homeland-to-Homeland/)
 
 ## Roadmap
 
@@ -37,7 +37,7 @@
 
 Ozan Sevkin - [@ozansevkin](https://twitter.com/ozansevkin) - [linkedin] - sevkinozan@gmail.com
 
-Project Link: [https://github.com/ozansevkin/web_project_3](https://github.com/ozansevkin/web_project_3)
+Project Link: [https://github.com/ozansevkin/Project_From-Homeland-to-Homeland/](https://github.com/ozansevkin/Project_From-Homeland-to-Homeland/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
